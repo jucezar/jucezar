@@ -6,7 +6,7 @@
 
 - :basecamp: Me encontre também no [trailblazer.me](https://trailblazer.me/id/jmartins1984)
 - :left_speech_bubble: Dúvidas sobre **Javasript, CSS, HTML, Apex, LWC, Aura, SOQL, Design**
-- :metal: Master hobbies: *Rock 'n' Roll, Hq e Ilustração*
+- :metal: Master Hobbies: *Rock 'n' Roll, Hq e Ilustração*
 
 
 <br><br>
