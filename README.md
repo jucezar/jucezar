@@ -1,4 +1,4 @@
-<img align="right" src="https://ovnicode.000webhostapp.com/cardeer-julio.png">
+<img align="right" src="https://ovnicode.000webhostapp.com/Card01-Git.png">
 <h1 align="left">Oi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">,tudo massa?! Sou Julio Martins.</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jucezar&color=blue" alt="Profile views" /> </p>
  
