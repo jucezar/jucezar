@@ -2,10 +2,10 @@
 <h1 align="left">Oi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">,tudo massa?! Sou Julio Martins.</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jucezar&color=blue" alt="Profile views" /> </p>
  
-- :technologist: Desenvolverdor Salesforce / Web / Designer Gráfico
+- :technologist: Desenvolverdor Web / Designer Gráfico / Salesforce
 
 - :basecamp: Me encontre também no [trailblazer.me](https://trailblazer.me/id/jmartins1984)
-- :left_speech_bubble: Dúvidas sobre **Javasript, CSS, HTML, Apex, LWC, Aura, SOQL, Design**
+- :left_speech_bubble: Dúvidas sobre **Javascript, CSS, HTML, Apex, LWC, SOQL, NodeJs, React, Java, Design**
 - :cowboy_hat_face: I'am :star::star:Ranger :metal:
 - :metal: Master Hobbies: *Rock 'n' Roll, Hq e Ilustração*
 
